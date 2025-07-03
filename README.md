@@ -1,4 +1,4 @@
-#Pointer Clicker Game
+##Pointer Clicker Game
 
 A fun and challenging Java game designed to test and improve your fine motor skills using the mouse.
 
